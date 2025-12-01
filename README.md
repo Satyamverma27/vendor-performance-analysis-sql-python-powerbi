@@ -120,14 +120,15 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](<img width="1307" height="734" alt="dashboard vendor " src="https://github.com/user-attachments/assets/39e04620-2ed8-4612-b374-0d621fbdaae3" />
+)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/Satyamverma27/vendor-performance-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
